@@ -1,0 +1,377 @@
+{"ts": 1767121863335, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121863334, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.25)"}
+{"ts": 1767121863342, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121863353, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:4.05)"}
+{"ts": 1767121863368, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121863409, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121863449, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121863496, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121863685, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121863729, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121863806, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121864519, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121864524, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121864530, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121864531, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121865375, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121865384, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121865377, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121865528, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121865509, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121865641, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121865714, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121865751, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121866455, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121866727, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121866720, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121866781, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121867516, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121867517, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121867517, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121867524, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121867736, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121868545, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121869106, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121869291, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121870039, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121870039, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121870039, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121870039, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121870111, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121870127, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121870217, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121870477, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121870773, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121870818, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121870835, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121870840, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121870843, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121870881, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121871950, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121871950, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121871950, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121871964, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121871959, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121871977, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121871982, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121871986, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121872000, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121872001, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121871995, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121872004, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121872220, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121872245, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121872239, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121872242, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121872242, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121872254, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121872322, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121872337, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121872341, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121872348, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121872527, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121872527, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121872541, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121872674, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121873866, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121873880, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121873874, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121873977, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121873884, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121873986, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121873975, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121874120, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121874033, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121874256, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121874259, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121874268, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121874274, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121874468, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121875248, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121875613, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121875568, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121875763, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121875790, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121875913, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121875910, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121875916, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121876088, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121876397, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121876503, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121876925, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121876892, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121877262, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121877510, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121877696, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121877635, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121877695, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121877877, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121877884, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121877877, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121877886, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121877895, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121877905, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121877906, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121877918, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121877997, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121877997, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121877997, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121877997, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121878036, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121878043, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121878069, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:4.82)"}
+{"ts": 1767121878071, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121878087, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121878094, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121878413, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121878414, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121878465, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121878490, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121878616, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121878676, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121878651, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121878787, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121878853, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121878905, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121878903, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121879154, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121879277, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121879378, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121879542, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121879546, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121879542, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121879542, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121880222, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121880229, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121880268, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121880303, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121880384, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121880432, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121881731, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121882009, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121882897, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121882902, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121882904, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121882909, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121882904, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121882920, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121883048, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121883176, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121883195, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121883200, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121883200, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121883208, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121883456, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121883548, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121884575, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121884841, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121884849, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121884853, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121884856, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121884920, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121884925, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121884937, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121884931, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121884939, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121884948, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121885053, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121885122, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121885172, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121885172, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121885172, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121885172, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121885195, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121885174, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121885362, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121885286, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121885364, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121885364, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121885372, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121885383, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121885408, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121886397, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121886399, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121886415, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121886449, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121886450, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121886454, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121886451, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121886560, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121887596, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121887674, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121887670, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121887702, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121887709, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121887803, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121887987, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121888006, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121887998, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121888023, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121888044, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121888051, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121888051, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121888056, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121888051, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.11)"}
+{"ts": 1767121888063, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121888115, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121888203, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121888757, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121888917, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121888916, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121889038, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121888953, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121889202, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121891968, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121891968, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121891968, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121891968, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121891968, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121891969, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121892194, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121893212, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121893199, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121893774, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121893860, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121893887, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121893887, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121893900, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121893979, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121893985, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121895047, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121895055, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121895322, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121895327, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121895324, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121895672, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121897164, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121898305, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121898353, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121898415, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121898529, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121898540, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121898667, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121898672, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121898677, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121898684, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121898685, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121898694, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121898824, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121898824, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121900617, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121900648, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121900648, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121900652, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121903424, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121903419, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121903443, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121903946, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121906843, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121907811, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121907980, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121909718, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121910908, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121911434, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121911661, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121911665, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121911662, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121911666, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121911662, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121911664, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121913671, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121914835, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121914918, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121914924, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121915113, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121915118, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121915135, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121915217, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121916298, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121916315, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121916340, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121916346, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121916346, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121916373, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121916352, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.11)"}
+{"ts": 1767121916444, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121917723, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121917742, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121917759, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121917759, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121917759, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121917827, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121919179, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121919600, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121920087, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121920094, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121920094, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121920100, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121920100, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121920142, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121920204, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121920210, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121920227, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121920240, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121920265, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121920275, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121920629, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121920781, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121920790, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121920936, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121921795, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121921800, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121921797, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121921810, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121921809, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121921812, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121921814, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121921823, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121921899, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121921906, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121921910, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121921916, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121921916, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121922310, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121924764, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121924765, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121924760, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121924766, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121924791, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121924791, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121924803, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121924827, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121925103, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121925104, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121925099, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121925112, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121925198, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121925240, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121925453, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121925567, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121926643, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:4.05)"}
+{"ts": 1767121926644, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121926655, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121926675, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121928372, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121928380, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121928380, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121928389, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121928458, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121928467, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121928475, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121928475, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121928475, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.10)"}
+{"ts": 1767121928488, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121931022, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121932604, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121934414, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121934825, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121935423, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121935844, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121935843, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121935843, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121935849, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121936803, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121936725, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121936936, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}
+{"ts": 1767121936936, "data_trust": "HIGH", "hypothesis": "WEAKENING", "decision": "RESTRICTED", "trigger": "ADAPTIVE_SHOCK (Dist:8.09)"}
+{"ts": 1767121936936, "data_trust": "HIGH", "hypothesis": "CONFIRMED", "decision": "ALLOWED", "trigger": ""}

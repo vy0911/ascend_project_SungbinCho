@@ -1,0 +1,9 @@
+{
+    "total_events": 76611,
+    "action_distribution": {
+        "HALT": 544,
+        "RESTRICTED": 66214,
+        "IGNORED": 9853
+    },
+    "status": "success"
+}
